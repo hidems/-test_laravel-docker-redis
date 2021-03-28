@@ -88,6 +88,12 @@ docker-compose exec php php artisan migrate
 
 ~~docker exec -it php php artisan ui vue --auth~~
 
+## Vue Router
+```
+npm install --save vue-router
+```
+
+
 # Troubleshooting
 ## Create encryption key
 ```
